@@ -126,10 +126,5 @@ while True:
         ball.dx *= -1
 
 
-    # Finished on 39.28 minute
-    # https://www.youtube.com/watch?v=XGf2GcyHPhc&list=LL&index=1&t=1848s
-
-
-
 
 
